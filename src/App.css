@@ -36,3 +36,45 @@
     transform: rotate(360deg);
   }
 }
+
+.selamat-datang{
+    
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 600;
+    /* font-size: 56px; */
+    line-height: 120%;
+    /* or 67px */
+  
+    letter-spacing: -0.03em;
+  
+    color: #1D334F;
+}
+
+.silahkan-melanjutkan{
+  
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 600;
+    /* font-size: 28px; */
+    line-height: 130%;
+    /* or 36px */
+  
+  
+    /* #Simple */
+  
+    color: #597393;
+}
+
+.shadow-box{
+  box-shadow: 0px 16px 24px rgba(190, 190, 190, 0.16);
+    border-radius: 8px;
+}
+
+.font-gilroy{
+  font-family: 'Gilroy';
+    font-style: normal;
+}
+.font-color-label{
+  color: #002060;
+}
